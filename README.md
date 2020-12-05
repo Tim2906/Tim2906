@@ -4,10 +4,10 @@
 	<a href="https://twitter.com/DreamingTim"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<hr>
 	<center>
+	<a href="https://github.com/Tim2906-DiscordBot/AltV-Stats-DiscordBot" target="_blank">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tim2906&repo=AltV-Stats-DiscordBot&theme=dracula" />
 	<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-	<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tim2906&repo=Minecraft-Stats-DiscordBot&theme=dracula" />
 	</center>
 </a>
 </p>
